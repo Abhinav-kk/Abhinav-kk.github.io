@@ -1,6 +1,6 @@
 # Abhinav-kk.github.io
 
-# _layouts - It contains the layouts for the page.
+_layouts - It contains the layouts for the page.
 
 # _posts - It contains the posts in the blog page.
 
